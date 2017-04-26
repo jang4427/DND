@@ -10,16 +10,16 @@
     <title>Architect - Home/slider</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="http://127.0.0.1:8888/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://127.0.0.1/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="http://127.0.0.1:8888/assets/css/main.css" rel="stylesheet">
+    <link href="http://127.0.0.1/assets/css/main.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
-    <link href="http://127.0.0.1:8888/assets/css/responsive.css" rel="stylesheet">
+    <link href="http://127.0.0.1/assets/css/responsive.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="http://127.0.0.1:8888/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet"
+    <link href="http://127.0.0.1/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet"
           type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
@@ -45,23 +45,23 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://127.0.0.1:8888/controlls"><img
-                    src="http://127.0.0.1:8888/assets/img/logo.png" alt=""/></a>
+            <a class="navbar-brand" href="http://127.0.0.1/controlls"><img
+                    src="http://127.0.0.1/assets/img/logo.png" alt=""/></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="http://127.0.0.1:8888/controlls">Home</a>
+                    <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1:8888/controlls/about_us">Work list</a>
+                    <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1:8888/controlls/portfolio">Portfolio</a>
+                    <a href="http://127.0.0.1/controlls/portfolio">Portfolio</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1:8888/controlls/contact">Contact</a>
+                    <a href="http://127.0.0.1/controlls/contact">Contact</a>
                 </li>
             </ul>
         </div>
@@ -79,7 +79,7 @@
                     <h1 class="main-text">We <span class="part">design</span> future.</h1>
                     <p class="intro-text">Buildings should imitate ecological systems.
                     </p>
-                    <a href="http://127.0.0.1:8888/controlls/portfolio" class="btn ghost-btn">our work</a>
+                    <a href="http://127.0.0.1/controlls/portfolio" class="btn ghost-btn">our work</a>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
         <!-- Box1 -->
         <div class="col-md-6 col-sm-6">
             <div class="panel-default">
-                <img src="http://127.0.0.1:8888/assets/img/photo1.jpg" alt="photo"/>
+                <img src="http://127.0.0.1/assets/img/photo1.jpg" alt="photo"/>
 
                 <div class="panel-heading">
                     <h2>Work list</h2>
@@ -116,7 +116,7 @@
                     <p>회사소개 글 필요</p>
 
                     <div class="text-center">
-                        <a href="http://127.0.0.1:8888/controlls/about_us" class="resp-btn btn">Read more <i
+                        <a href="http://127.0.0.1/controlls/about_us" class="resp-btn btn">Read more <i
                                 class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
         <!-- Box2 -->
         <div class="col-md-6 col-sm-6">
             <div class="panel-default">
-                <img src="http://127.0.0.1:8888/assets/img/photo2.jpg" alt="photo"/>
+                <img src="http://127.0.0.1/assets/img/photo2.jpg" alt="photo"/>
 
                 <div class="panel-heading">
                     <h2>News</h2>
@@ -137,7 +137,7 @@
                     <p>뉴스 글 필요</p>
 
                     <div class="text-center">
-                        <a href="http://127.0.0.1:8888/controlls/news" class="resp-btn btn">Read more <i
+                        <a href="http://127.0.0.1/controlls/news" class="resp-btn btn">Read more <i
                                 class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                 <a href="portfolio-item1.html">
                     <div class="img-hover-photo"><span class="hover-text">Project title 1</span>
                     </div>
-                    <img src="http://127.0.0.1:8888/assets/img/30.jpg" alt="photo"/></a>
+                    <img src="http://127.0.0.1/assets/img/30.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image1 -->
@@ -205,7 +205,7 @@
                 <a href="portfolio-item1.html">
                     <div class="img-hover-photo"><span class="hover-text">Project title 2</span>
                     </div>
-                    <img src="http://127.0.0.1:8888/assets/img/27.jpg" alt="photo"/></a>
+                    <img src="http://127.0.0.1/assets/img/27.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image2 -->
@@ -217,7 +217,7 @@
                 <a href="portfolio-item1.html">
                     <div class="img-hover-photo"><span class="hover-text1">Project title 3</span>
                     </div>
-                    <img src="http://127.0.0.1:8888/assets/img/26.jpg" alt="photo"/></a>
+                    <img src="http://127.0.0.1/assets/img/26.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image3 -->
@@ -229,7 +229,7 @@
                 <a href="portfolio-item1.html">
                     <div class="img-hover-photo"><span class="hover-text1">Project title 4</span>
                     </div>
-                    <img src="http://127.0.0.1:8888/assets/img/31.jpg" alt="photo"/></a>
+                    <img src="http://127.0.0.1/assets/img/31.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image4 -->
@@ -241,7 +241,7 @@
                 <a href="portfolio-item1.html">
                     <div class="img-hover-photo"><span class="hover-text1">Project title 5</span>
                     </div>
-                    <img src="http://127.0.0.1:8888/assets/img/20.jpg" alt="photo"/></a>
+                    <img src="http://127.0.0.1/assets/img/20.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image5 -->
@@ -250,7 +250,7 @@
                 <a href="portfolio-item1.html">
                     <div class="img-hover-photo"><span class="hover-text1">Project title 5</span>
                     </div>
-                    <img src="http://127.0.0.1:8888/assets/img/22.jpg" alt="photo"/></a>
+                    <img src="http://127.0.0.1/assets/img/22.jpg" alt="photo"/></a>
             </div>
         </div>
 
@@ -351,8 +351,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-6">
                     <div class="footerMenu">
                         <ul>
-                            <li><a href="http://127.0.0.1:8888/controlls/about_us">Work list</a></li>
-                            <li class="last"><a href="http://127.0.0.1:8888/controlls/portfolio">Portfolio</a></li>
+                            <li><a href="http://127.0.0.1/controlls/about_us">Work list</a></li>
+                            <li class="last"><a href="http://127.0.0.1/controlls/portfolio">Portfolio</a></li>
                         </ul>
                     </div><!-- /footerMenu -->
                 </div>
@@ -369,15 +369,15 @@
 
 
 <!-- jQuery Version 1.11.0 -->
-<script src="http://127.0.0.1:8888/assets/js/jquery-1.11.0.js"></script>
+<script src="http://127.0.0.1/assets/js/jquery-1.11.0.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="http://127.0.0.1:8888/assets/js/bootstrap.min.js"></script>
+<script src="http://127.0.0.1/assets/js/bootstrap.min.js"></script>
 
 <!-- Smooth scroll JS -->
-<script src="http://127.0.0.1:8888/assets/js/smoothscroll.js"></script>
+<script src="http://127.0.0.1/assets/js/smoothscroll.js"></script>
 
-<script src="http://127.0.0.1:8888/assets/js/responsiveslides.min.js"></script>
+<script src="http://127.0.0.1/assets/js/responsiveslides.min.js"></script>
 <script>
     $(function () {
         $(".rslides").responsiveSlides();

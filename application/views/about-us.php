@@ -10,17 +10,17 @@
     <title>Architect - Work list</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="http://127.0.0.1:8888/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://127.0.0.1/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="http://127.0.0.1:8888/assets/css/main.css" rel="stylesheet">
+    <link href="http://127.0.0.1/assets/css/main.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
-    <link href="http://127.0.0.1:8888/assets/css/responsive.css" rel="stylesheet">
+    <link href="http://127.0.0.1/assets/css/responsive.css" rel="stylesheet">
 
 
     <!-- Custom Fonts -->
-    <link href="http://127.0.0.1:8888/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://127.0.0.1/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -45,25 +45,25 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://127.0.0.1:8888/controlls"><img src="http://127.0.0.1:8888/assets/img/logo.png" alt=""/></a>
+                <a class="navbar-brand" href="http://127.0.0.1/controlls"><img src="http://127.0.0.1/assets/img/logo.png" alt=""/></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="http://127.0.0.1:8888/controlls">Home</a>
+                        <a href="http://127.0.0.1/controlls">Home</a>
                     </li>
                     <li>
-                        <a href="http://127.0.0.1:8888/controlls/about_us">Work list</a>
+                        <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                     </li>
                     <li>
-                        <a href="http://127.0.0.1:8888/controlls/portfolio">Portfolio</a>
+                        <a href="http://127.0.0.1/controlls/portfolio">Portfolio</a>
                     </li>
 <!--                    <li>-->
-<!--                        <a href="http://127.0.0.1:8888/controlls/news">News</a>-->
+<!--                        <a href="http://127.0.0.1/controlls/news">News</a>-->
 <!--                    </li>-->
                     <li>
-                        <a href="http://127.0.0.1:8888/controlls/contact">Contact</a>
+                        <a href="http://127.0.0.1/controlls/contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -170,7 +170,7 @@
             <!-- How we work -->
 <!--            <div class="row about-us-top1">-->
 <!--                <div class="col-md-5 col-sm-6">-->
-<!--                    <img src="http://127.0.0.1:8888/assets/img/photo4.jpg" alt="photo" class="resp-photo"/>-->
+<!--                    <img src="http://127.0.0.1/assets/img/photo4.jpg" alt="photo" class="resp-photo"/>-->
 <!--                </div>-->
 <!--                <div class="col-md-7 col-sm-6">-->
 <!--                    <h4>How we work</h4>-->
@@ -193,22 +193,22 @@
                        <h3 class="our-clients-header">Our Clients</h3>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1:8888/assets/img/client-logo1.jpg" alt="photo" class="our-clients-photo"/>
+                         <img src="http://127.0.0.1/assets/img/client-logo1.jpg" alt="photo" class="our-clients-photo"/>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1:8888/assets/img/client-logo2.jpg" alt="photo" class="our-clients-photo"/>
+                         <img src="http://127.0.0.1/assets/img/client-logo2.jpg" alt="photo" class="our-clients-photo"/>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1:8888/assets/img/client-logo3.jpg" alt="photo" class="our-clients-photo"/>
+                         <img src="http://127.0.0.1/assets/img/client-logo3.jpg" alt="photo" class="our-clients-photo"/>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1:8888/assets/img/client-logo4.jpg" alt="photo" class="our-clients-photo"/>
+                         <img src="http://127.0.0.1/assets/img/client-logo4.jpg" alt="photo" class="our-clients-photo"/>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1:8888/assets/img/client-logo1.jpg" alt="photo" class="our-clients-photo"/>
+                         <img src="http://127.0.0.1/assets/img/client-logo1.jpg" alt="photo" class="our-clients-photo"/>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1:8888/assets/img/client-logo5.jpg" alt="photo" class="our-clients-photo"/>
+                         <img src="http://127.0.0.1/assets/img/client-logo5.jpg" alt="photo" class="our-clients-photo"/>
                     </div>
                 </div>
                 <!-- /row --> 
@@ -249,7 +249,7 @@
 					 <div class="col-md-6 col-sm-6 col-xs-6">
 						 <div class="footerMenu">
 							 <ul>
-								<li><a href="http://127.0.0.1:8888/about-us">Work list</a></li>
+								<li><a href="http://127.0.0.1/about-us">Work list</a></li>
 								<li><a href="news-home-1">News</a></li>
 								<li><a href="services1">Services</a></li>
 								<li class="last"><a href="portfolio-2-col">Portfolio</a></li>
@@ -267,13 +267,13 @@
 		
 
      <!-- jQuery Version 1.11.0 -->
-     <script src="http://127.0.0.1:8888/assets/js/jquery-1.11.0.js"></script>
+     <script src="http://127.0.0.1/assets/js/jquery-1.11.0.js"></script>
 
      <!-- Bootstrap Core JavaScript -->
-     <script src="http://127.0.0.1:8888/assets/js/bootstrap.min.js"></script>
+     <script src="http://127.0.0.1/assets/js/bootstrap.min.js"></script>
      
      <!-- Smooth scroll JS -->
-     <script src="http://127.0.0.1:8888/assets/js/smoothscroll.js"></script>
+     <script src="http://127.0.0.1/assets/js/smoothscroll.js"></script>
 
 
 </body>

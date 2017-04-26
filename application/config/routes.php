@@ -52,5 +52,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'controlls';
 $route['portfolio/(:num)'] = "controlls/portfolio/$1";
 $route['404_override'] = '';
-//내가 알고있잖아 이미지 개수를 그니까 상관없지 최초에 화면에 몇페이지까지 있는지도
-// total / 5

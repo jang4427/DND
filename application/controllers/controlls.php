@@ -11,7 +11,7 @@ class Controlls extends CI_Controller {
 	public function initPaging()
 	{
 		$this->load->library('pagination');
-		$config['base_url'] = 'http://127.0.0.1:8888/controlls/portfolio';
+		$config['base_url'] = 'http://127.0.0.1/controlls/portfolio';
 		$config['total_rows'] = 20;
 		$config['per_page'] = 5;
 
@@ -27,6 +27,7 @@ class Controlls extends CI_Controller {
 
 	public function about_us()
 	{
+        print_r('about_us');
 		$this->load->view('about-us');
 	}
 
@@ -118,5 +119,4 @@ class Controlls extends CI_Controller {
 			error_log('fail');
 		}
 	}
-
 }
