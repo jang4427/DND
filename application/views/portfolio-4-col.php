@@ -54,6 +54,9 @@
                     <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
+                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                </li>
+                <li>
                     <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
@@ -91,17 +94,21 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/16.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/16.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project One
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">YEOKSAM OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2010<br>
+                STEP : UNDER CONSTRUCTION<br>
+                LOCATION : 서울시 강남구 역삼동 719-34<br>
+                SiteArea : 455.20 m2<br>
+                GrossFloorArea : 연면적 4,205.89 m2<br>
+                Blog, scale B3~14F
+                Program : OFFICE<br>
+            </p>
         </div>
     </div>
 
@@ -109,17 +116,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/17.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/17.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Two
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">NON HYEON OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2011<br>
+                STEP : UNDER CONSTRUCTION<br>
+                LOCATION : 서울시 강남구 논현동 234-25<br>
+                SiteArea : 504.30 m2<br>
+                GrossFloorArea : 연면적 5,133.69 m2<br>
+                Blog, scale B3~14F
+                Program : OFFICE<br>
+            </p>
         </div>
     </div>
 
@@ -127,17 +138,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/18.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/18.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Three
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">NON HYEON SS MOTERS</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2010<br>
+                STEP : CONSTRUCTION DOCUMENT IN PROCESS<br>
+                시화나루 휴게소 개발계획
+                LOCATION : 서울시 논현동 91번지<br>
+                SiteArea : 482.20 m2<br>
+                GrossFloorArea : 연면적 8,802.20 m2<br>
+                Program : 근린생활시설, 업무시설<br>
+            </p>
         </div>
     </div>
 
@@ -145,17 +160,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/19.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/19.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Four
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">VIETNAM BINH TAY RESIDENCE TOWER</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2010<br>
+                STEP : CONSTRUCTION DOCUMENT IN PROCESS<br>
+                베트남 빈떼이 주상복합 개발계획<br>
+                LOCATION : Vietnam Binh Tay<br>
+                SiteArea : 3,848 m2<br>
+                GrossFloorArea : 연면적 1,533 m2<br>
+                Program : 공공시설, 아파트<br>
+            </p>
         </div>
     </div>
 
@@ -163,17 +182,20 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/20.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/20.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Five
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">NONHYEON OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2011<br>
+                LOCATION : 서울시 강남구 청담동 44-15<br>
+                SiteArea : 912.60 m2<br>
+                GrossFloorArea : 2,697.43 m2<br>
+                BLDG. SCALE : B1F~5F<br>
+                Program : OFFICE<br>
+            </p>
         </div>
     </div>
 
@@ -182,7 +204,7 @@
     <div class="row text-center">
         <div class="col-md-12">
             <ul class="pagination">
-                <li class="active">
+                <li>
                     <a href="http://127.0.0.1/controlls/portfolio/1">1</a>
                 </li>
                 <li>
@@ -191,7 +213,7 @@
                 <li>
                     <a href="http://127.0.0.1/controlls/portfolio/3">3</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="http://127.0.0.1/controlls/portfolio/4">4</a>
                 </li>
                 <li>

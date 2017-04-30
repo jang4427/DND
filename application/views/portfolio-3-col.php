@@ -54,6 +54,9 @@
                     <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
+                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                </li>
+                <li>
                     <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
@@ -91,17 +94,20 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/11.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/11.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project One
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">CHEORWON SPA LAND</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2009<br>
+                STEP : CONSTRUCTION DOCUMENT IN PROCESS<BR>
+                철원 온천 스파랜드 개발계획<BR>
+                LOCATION : 강원도 철원군 서면 자등리 1748-1번지일대<br>
+                SiteArea : 24,500 m2<br>
+                GrossFloorArea : 연면적 8,600 m2<br>
+                Program : 실내외 스파시설 및 놀이시설, 가족탕, 사우나 및 락커, 방갈로
+            </p>
         </div>
     </div>
 
@@ -109,17 +115,19 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/12.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/12.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Two
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">KI CANNAL</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2009<br>
+                STEP : 경인 아라뱃길사업 턴키 당선안<BR>
+                경인 아라뱃길 제2공구 개발계획<BR>
+                LOCATION : 인천광역시 서구 경서동 일대<br>
+                GrossFloorArea : 3,257 m2<br>
+                Program : 갑문통제소, 갑문 개폐실, 전망대 등
+            </p>
         </div>
     </div>
 
@@ -127,17 +135,20 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/13.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/13.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Three
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">DEOKGU HOTEL EXTENSION</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2010<br>
+                STEP : CONSTRUCTION DOCUMENT IN PROCESS<BR>
+                덕구관광호텔증축개발프로젝트<BR>
+                LOCATION : 경북 울진군 북면 덕구리 575외 15필지<br>
+                SiteArea : 27,313 m2<br>
+                GrossFloorArea : 연면적 8,600 m2<br>
+                Program : 온천수를 활용한 옥내외 스파월드 증축
+            </p>
         </div>
     </div>
 
@@ -145,17 +156,20 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/14.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/14.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Four
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">GLOBAL CARE CITY</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2009<br>
+                STEP : MASTER PLAN<BR>
+                글로벌 케이시티 개발계획<BR>
+                LOCATION : 서울시 성남구 분당동 금곡동 일원<br>
+                SiteArea : 726,500 m2<br>
+                GrossFloorArea : 연면적 431.310 m2<br>
+                Program : 복합 의료단지(호텔, 한방종합병원, 케어센터, R&D센터 등)
+            </p>
         </div>
     </div>
 
@@ -163,17 +177,20 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/15.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/15.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Five
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">SIHWA NARU SERVICE AREA</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2010<br>
+                STEP : CONSTRUCTION DOCUMENT IN PROCESS<BR>
+                시화나루 휴게소 개발계획<BR>
+                LOCATION : 경기도 안산시 대부면 시화방조제 일원<br>
+                SiteArea : 10,592 m2<br>
+                GrossFloorArea : 연면적 2,481 m2<br>
+                Program : 휴게실, 화장실, 식당, 수유실, 편의점
+            </p>
         </div>
     </div>
 
@@ -182,7 +199,7 @@
     <div class="row text-center">
         <div class="col-md-12">
             <ul class="pagination">
-                <li class="active">
+                <li>
                     <a href="http://127.0.0.1/controlls/portfolio/1">1</a>
                 </li>
                 <li>
@@ -191,7 +208,7 @@
                 <li>
                     <a href="http://127.0.0.1/controlls/portfolio/3">3</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="http://127.0.0.1/controlls/portfolio/4">4</a>
                 </li>
                 <li>

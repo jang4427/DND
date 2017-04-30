@@ -54,6 +54,9 @@
                         <a href="http://127.0.0.1/controlls">Home</a>
                     </li>
                     <li>
+                        <a href="http://127.0.0.1/controlls/career">Career</a>
+                    </li>
+                    <li>
                         <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                     </li>
                     <li>
@@ -91,17 +94,22 @@
 
         <div class="row margin-top">
             <div class="col-md-7">
-                <a href="portfolio-item.html">
-                   <img class="img-hover" src="http://127.0.0.1/assets/img/1.jpg" alt="photo"/>
-                </a>
+                   <img src="http://127.0.0.1/assets/img/1.jpg" alt="photo"/>
             </div>
             <div class="col-md-5">
-                <div class="portfolio-header">Project One
-                </div>
-                <div class="portfolio-subheader">Subheading
-                </div>
-                <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-                <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+                <div class="portfolio-header">DEOKGU HOTEL EXTENSION</div>
+                <BR>
+                <div class="portfolio-subheader">Description</div>
+                <p>중, 장년층을 타겟으로 하는 건강욕 시설과 남녀노소 온 가족이 이용 가능한 온천이용시설 개발</p>
+                <p>기존 대중 목욕장에 아쿠아풀, 옥외 레저스파 증축을 통한 고급형 온천시설 특화개발</p>
+
+                <br>
+                <p> SINCE : 2004<br>
+                    STEP : MASTER PLAN 덕구 관광호텔 증축개발 프로젝트<br>
+                    LOCATION : 경북 울진군 북면 덕구리 575<br>
+                    SiteArea : 5,700평<br>
+                    SiteArea : 4,600평
+                </p>
             </div>
         </div>
 
@@ -109,17 +117,19 @@
 
         <div class="row">
             <div class="col-md-7">
-                <a href="portfolio-item.html">
-                   <img class="img-hover" src="http://127.0.0.1/assets/img/2.jpg" alt="photo"/>
-                </a>
+                   <img src="http://127.0.0.1/assets/img/2.jpg" alt="photo"/>
             </div>
             <div class="col-md-5">
-                <div class="portfolio-header">Project Two
-                </div>
-                <div class="portfolio-subheader">Subheading
-                </div>
-                <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-                <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+                <div class="portfolio-header">SOKCHO SPRING CARE CENTER</div>
+                <br>
+                <div class="portfolio-subheader">Description</div>
+                <p> SINCE : 2005<br>
+                    STEP : 속초 노학지구 실버타운<br>
+                    LOCATION : 강원도 속초시 동우대학 내<br>
+                    SiteArea : 100,000평<br>
+                    GrossFloorArea : 12,000평
+                    Program : 스파케이센터, 옥외 노천 스파공원, 실버타운
+                </p>
             </div>
         </div>
 
@@ -127,17 +137,19 @@
 
         <div class="row">
             <div class="col-md-7">
-                <a href="portfolio-item.html">
-                    <img class="img-hover" src="http://127.0.0.1/assets/img/3.jpg" alt="photo"/>
-                </a>
+                    <img src="http://127.0.0.1/assets/img/3.jpg" alt="photo"/>
             </div>
             <div class="col-md-5">
-                <div class="portfolio-header">Project Three
-                </div>
-                <div class="portfolio-subheader">Subheading
-                </div>
-                <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-                <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+                <div class="portfolio-header">NOWON AGING BUILDING</div>
+                <br>
+                <div class="portfolio-subheader">Description</div>
+
+                <p> SINCE : 2006<br>
+                    STEP : MASTER PLAN 노원 복지시설 프로젝트<br>
+                    LOCATION : 서울시 노원구 상계동 44-99 일원<br>
+                    SiteArea : 1,300평<br>
+                    SiteArea : 5,400평
+                </p>
             </div>
         </div>
 
@@ -145,17 +157,19 @@
 
         <div class="row">
             <div class="col-md-7">
-                <a href="portfolio-item.html">
-                   <img class="img-hover" src="http://127.0.0.1/assets/img/4.jpg" alt="photo"/>
-                </a>
+                   <img src="http://127.0.0.1/assets/img/4.jpg" alt="photo"/>
             </div>
             <div class="col-md-5">
-                <div class="portfolio-header">Project Four
-                </div>
-                <div class="portfolio-subheader">Subheading
-                </div>
-                <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-                <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+                <div class="portfolio-header">LAKE SHIHWA MEXED USE RESORT</div>
+                <br>
+                <div class="portfolio-subheader">Description</div>
+
+                <p> SINCE : 2006<br>
+                    STEP : MASTER PLAN 시월호 복합리조트 개발계획<br>
+                    LOCATION : 경기도 안산시 시화호 일대<br>
+                    SiteArea : 65,000평<br>
+                    SiteArea : 120,000평
+                </p>
             </div>
         </div>
 
@@ -163,17 +177,20 @@
 
         <div class="row">
             <div class="col-md-7">
-                <a href="portfolio-item.html">
-                   <img class="img-hover" src="http://127.0.0.1/assets/img/5.jpg" alt="photo"/>
-                </a>
+                   <img  src="http://127.0.0.1/assets/img/5.jpg" alt="photo"/>
             </div>
             <div class="col-md-5">
-                <div class="portfolio-header">Project Five
-                </div>
-                <div class="portfolio-subheader">Subheading
-                </div>
-                <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-                <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+                <div class="portfolio-header">GUNGANGNARA RENEWAL & EXTENSION</div>
+                <br>
+                <div class="portfolio-subheader">Description</div>
+
+                <p> SINCE : 2007<br>
+                    STEP : CONSTRUCTION DOCUMENT IN PROCESS<br>
+                    건강나라 리조트 증축공사<br>
+                    LOCATION : 경기도 안성시 죽산면 내산리 일원<br>
+                    SiteArea : 15,300평<br>
+                    SiteArea : 3,300평
+                </p>
             </div>
         </div>
 

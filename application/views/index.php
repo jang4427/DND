@@ -55,6 +55,9 @@
                     <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
+                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                </li>
+                <li>
                     <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
@@ -109,14 +112,13 @@
             <div class="panel-default">
                 <img src="http://127.0.0.1/assets/img/photo1.jpg" alt="photo"/>
 
-                <div class="panel-heading">
+                <!--<div class="panel-heading">
                     <h2>Work list</h2>
-                </div>
+                </div>-->
                 <div class="panel-body">
-                    <p>회사소개 글 필요</p>
-
+                    <!--<p>작성해야함</p>-->
                     <div class="text-center">
-                        <a href="http://127.0.0.1/controlls/about_us" class="resp-btn btn">Read more <i
+                        <a href="http://127.0.0.1/controlls/about_us" class="resp-btn btn">Work list <i
                                 class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -130,14 +132,14 @@
             <div class="panel-default">
                 <img src="http://127.0.0.1/assets/img/photo2.jpg" alt="photo"/>
 
-                <div class="panel-heading">
-                    <h2>News</h2>
-                </div>
+                <!--<div class="panel-heading">
+                    <h2>Career</h2>
+                </div>-->
                 <div class="panel-body">
-                    <p>뉴스 글 필요</p>
+                    <!--<p>작성해야함</p>-->
 
                     <div class="text-center">
-                        <a href="http://127.0.0.1/controlls/news" class="resp-btn btn">Read more <i
+                        <a href="http://127.0.0.1/controlls/news" class="resp-btn btn">Career <i
                                 class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -256,7 +258,7 @@
 
         <!-- View all projects button -->
         <div class="text-center">
-            <a href="portfolio-1-col.html" class="resp-btn btn">
+            <a href="http://127.0.0.1/controlls/portfolio" class="resp-btn btn">
                 View all projects <i class="fa fa-long-arrow-right"></i>
             </a>
         </div>

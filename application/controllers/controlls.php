@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Controlls extends CI_Controller {
+class controlls extends CI_Controller {
 
 	function __construct()
 	{
@@ -27,9 +27,13 @@ class Controlls extends CI_Controller {
 
 	public function about_us()
 	{
-        print_r('about_us');
 		$this->load->view('about-us');
 	}
+
+    public function career()
+    {
+        $this->load->view('career');
+    }
 
 	public function portfolio($iPage = 1)
 	{

@@ -56,6 +56,9 @@
                         <a href="http://127.0.0.1/controlls">Home</a>
                     </li>
                     <li>
+                        <a href="http://127.0.0.1/controlls/career">Career</a>
+                    </li>
+                    <li>
                         <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                     </li>
                     <li>

@@ -54,6 +54,9 @@
                     <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
+                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                </li>
+                <li>
                     <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
@@ -91,17 +94,19 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/6.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/6.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project One
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">SEOCHO OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2007<br>
+                LOCATION : 서울시 서초구 서초동<br>
+                SiteArea : 313.60 m2<br>
+                GrossFloorArea : 1,386,26 m2<br>
+                Bldg. scale : B1~F6<br>
+                Program: Office
+            </p>
         </div>
     </div>
 
@@ -109,17 +114,19 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/7.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/7.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Two
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">SAMSUNG OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2007<br>
+                LOCATION : 서울시 강남구 삼성동<br>
+                SiteArea : 605.80 m2<br>
+                GrossFloorArea : 3,189.63 m2<br>
+                Bldg. scale : B4~F9<br>
+                Program: Office
+            </p>
         </div>
     </div>
 
@@ -127,17 +134,20 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/8.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/8.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Three
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">SANBON MIXED USE BUILDING</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2008<br>
+                STEP : DESIGN DEVELOPMENT<br>
+                산본 주상복합 개발계획<br>
+                LOCATION : 경기도 군포시 산본동<br>
+                SiteArea : 9,900 m2<br>
+                GrossFloorArea : 지하3층, 지상25층 82,000 m2<br>
+                Program: 주거 320세대, 테마상가, 업무시설
+            </p>
         </div>
     </div>
 
@@ -145,17 +155,19 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/9.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/9.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Four
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">NEW DAY C.C CLUB HOUSE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2008<br>
+                STEP : DESIGN DEVELOPMENT<BR>
+                뉴데이 컨트리 클럽하우스 계획<BR>
+                LOCATION : 충청남도 천안시 납안리 일원<br>
+                SiteArea : 1,020,000 m2<br>
+                GrossFloorArea : 정규 18홀
+            </p>
         </div>
     </div>
 
@@ -163,17 +175,20 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/10.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/10.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Five
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">GRAND OCEAN PARK</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+            <p> SINCE : 2008<br>
+                STEP : MASTER PLAN<BR>
+                그랜드 오션 파크 개발계획<BR>
+                LOCATION : 전라북도 새만금 일대<br>
+                SiteArea : 3,300,000 m2<br>
+                GrossFloorArea : 660,000 m2<br> 
+                Program: 호텔,콘도 & 스파빌리지 단지, 실버단지, 테마팍단지 등
+            </p>
         </div>
     </div>
 
@@ -182,10 +197,10 @@
     <div class="row text-center">
         <div class="col-md-12">
             <ul class="pagination">
-                <li class="active">
+                <li>
                     <a href="http://127.0.0.1/controlls/portfolio/1">1</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="http://127.0.0.1/controlls/portfolio/2">2</a>
                 </li>
                 <li>

@@ -54,6 +54,9 @@
                     <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
+                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                </li>
+                <li>
                     <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
@@ -91,17 +94,20 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/21.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/21.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project One
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">YEOKSAM UNION TOWER</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2010<br>
+                LOCATION : 서울시 강남구 역삼동 736-31<br>
+                SiteArea : 519.40 m2<br>
+                GrossFloorArea : 1,999.21 m2<br>
+                BLDG. SCALE : B1F~10F<br>
+                Program : OFFICE<br>
+            </p>
         </div>
     </div>
 
@@ -109,17 +115,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/22.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/22.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Two
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">JAGOK HOUSE/CAFE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2012<br>
+                LOCATION : 서울시 강남구 자곡동 271-11<br>
+                SiteArea : 350.90 m2<br>
+                GrossFloorArea : 297.914 m2<br>
+                BLDG. SCALE : 1F~2F<br>
+                Program : 단독주택/근린생활시설<br>
+                Note : 증축 설계/시공완료
+            </p>
         </div>
     </div>
 
@@ -127,17 +137,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/23.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/23.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Three
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">CHEONGDAM OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2013<br>
+                LOCATION : 서울시 강남구 청담동 44-12<br>
+                SiteArea : 880.90 m2<br>
+                GrossFloorArea : 2,882.62 m2<br>
+                BLDG. SCALE : B1F~6F<br>
+                Program : 업무 및 근린생활시설<br>
+                Note : 2개층 증축 설계/시공완료
+            </p>
         </div>
     </div>
 
@@ -145,17 +159,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/24.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/24.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Four
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">YEOKSAM OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2013<br>
+                LOCATION : 서울시 강남구 역삼동 678-29<br>
+                SiteArea : 331.30 m2<br>
+                GrossFloorArea : 3,145.28 m2<br>
+                BLDG. SCALE : B3F~13F<br>
+                Program : OFFICE<br>
+                Note : 설계/시공완료
+            </p>
         </div>
     </div>
 
@@ -163,17 +181,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/25.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/25.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Five
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">UMYEON OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2013<br>
+                LOCATION : 서울시 강남구 청담동 44-12<br>
+                SiteArea : 400 m2<br>
+                GrossFloorArea : 341.32 m2<br>
+                BLDG. SCALE : 1F~2F<br>
+                Program : 근린생활시설<br>
+                Note : 설계/시공완료
+            </p>
         </div>
     </div>
 
@@ -182,7 +204,7 @@
     <div class="row text-center">
         <div class="col-md-12">
             <ul class="pagination">
-                <li class="active">
+                <li>
                     <a href="http://127.0.0.1/controlls/portfolio/1">1</a>
                 </li>
                 <li>
@@ -194,7 +216,7 @@
                 <li>
                     <a href="http://127.0.0.1/controlls/portfolio/4">4</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="http://127.0.0.1/controlls/portfolio/5">5</a>
                 </li>
                 <li>

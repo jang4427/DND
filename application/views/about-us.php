@@ -54,6 +54,9 @@
                         <a href="http://127.0.0.1/controlls">Home</a>
                     </li>
                     <li>
+                        <a href="http://127.0.0.1/controlls/career">Career</a>
+                    </li>
+                    <li>
                         <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                     </li>
                     <li>
@@ -79,8 +82,8 @@
            <div class="container">
                <div class="row">
                    <div class="col-md-12">
-                       <h2 class="main-text">About <span class="part">Us</span></h2>
-                          <div class="intro-text">how we work</div>
+                       <h2 class="main-text"><span class="part">Work list</span></h2>
+                          <div class="intro-text">our work list</div>
                    </div>
                </div>    
            </div>
@@ -93,13 +96,6 @@
 
         <div class="col-md-12">
         </div>
-<!--            <h2 class="projects-header">-->
-<!--                Latest projects-->
-<!--            </h2>-->
-<!--            <div class="hr">-->
-<!--            </div>-->
-<!--            <div class="white-space">-->
-<!--            </div>-->
         <div class="our-clients-border"></div>
 
         <div class="row margin-top">
@@ -114,6 +110,25 @@
                 <p class="inner-text">Korea / Seoul Seocho Commercial Project</p>
             </div>
             <div class="col-md-6 col-sm-6">
+                <h3>- 2010</h3>
+                <p>시화 나루 휴게소 개발계획</p>
+                <p class="inner-text">Korea / Sihwa naru service area project</p>
+                <p>필리핀 퀸즈벨라리조트 신축공사</p>
+                <p class="inner-text">Philippines / Queen's bella resort construction</p>
+                <p>베트남 탱화 뉴타운 계획</p>
+                <p class="inner-text">Vietnam / Thanh hoa new town master plan</p>
+                <p>베트남 하이퐁 FFC 복합타운</p>
+                <p class="inner-text">Vietnam / Haiphong ffc new urban center</p>
+                <p>베트남 주상복합</p>
+                <p class="inner-text">Vietnam / High - rise apartment</p>
+                <p>철원 SPALAND</p>
+                <p class="inner-text">Korea / Cheorwon spaland</p>
+                <p>덕구 관광호텔 증축</p>
+                <p class="inner-text">Korea / Duckku hotel extension work</p>
+            </div>
+        </div>
+        <div class="row margin-top">
+            <div class="col-md-6 col-sm-6">
                 <h3>- 2014</h3>
                 <p>역삼동 파고다호텔 증축계획</p>
                 <p class="inner-text">Korea / Seoul Yeoksam Pagoda Hotel remdeling Project</p>
@@ -124,9 +139,22 @@
                 <p>역삼동 미동전자 사옥 리모델링 계획</p>
                 <p class="inner-text">Korea / Seoul Yeoksam remdeling Project</p>
             </div>
+            <div class="col-md-6 col-sm-6">
+                <h3>- 2009</h3>
+                <p>거제 오빌리지 워터파크</p>
+                <p class="inner-text">Korea / Geojhe O Village Warterpark</p>
+                <p>글로벌 케어시티</p>
+                <p class="inner-text">Korea / Global Care City</p>
+                <p>서산 레저시티 드림벨리 그랜드 파크</p>
+                <p class="inner-text">Korea / Dream Valy Grand Park</p>
+                <p>당진 소노시아 리조트</p>
+                <p class="inner-text">Korea / Dangin Sognosia Resort</p>
+                <p>경인 아라뱃길 제2공구 턴키계획안</p>
+                <p class="inner-text">Korea / Ki Cannal</p>
+            </div>
         </div>
         <div class="row margin-top">
-            <div class="col-md-7 col-sm-6">
+            <div class="col-md-6 col-sm-6">
                 <h3>- 2013</h3>
                 <p>청담동 복합 업무시설 증축계획</p>
                 <p class="inner-text">Korea / Seoul Chungdam Mix Office Project</p>
@@ -137,9 +165,53 @@
                 <p>우면동 S사옥 신축계획</p>
                 <p class="inner-text">Korea / Seoul Umyeon Office Project</p>
             </div>
+            <div class="col-md-6 col-sm-6">
+                <h3>- 2008</h3>
+                <p>뉴욕 포코노 스파캐슬</p>
+                <p class="inner-text">Newyork / Pocono Spa Castle</p>
+                <p>L-시티</p>
+                <p class="inner-text">Korea / L-City</p>
+                <p>그랜드 오션파크</p>
+                <p class="inner-text">Korea / Grand Ocean park</p>
+                <p>대전신흥지구 도시재정비 촉진계획</p>
+                <p class="inner-text">Korea / Daejeon Renewai City</p>
+                <p>뉴데이 컨트리클럽</p>
+                <p class="inner-text">Korea / New Day Country Club</p>
+                <p>뉴데이 컨트리클럽 하우스 계획</p>
+                <p class="inner-text">Korea / New Day C.C Club House</p>
+                <p>강릉 풍호 컨트리클럽</p>
+                <p class="inner-text">Korea / Pungho Lake Country Club</p>
+                <p>킨텍스 원마운트 워터파크 개발</p>
+                <p class="inner-text">Korea / Onemount WaterPark</p>
+                <p>강화 워터랜드 개발</p>
+                <p class="inner-text">Korea / Ganghowa Water land</p>
+                <p>산본 주상복합개발</p>
+                <p class="inner-text">Korea / Sanborn Mixed Use Building</p>
+            </div>
         </div>
         <div class="row margin-top">
-            <div class="col-md-7 col-sm-6">
+            <div class="col-md-6 col-sm-6">
+                <h3>- 2013</h3>
+                <p>청담동 복합 업무시설 증축계획</p>
+                <p class="inner-text">Korea / Seoul Chungdam Mix Office Project</p>
+                <p>수원 영통 하동 주민센터 현상설계(안)</p>
+                <p class="inner-text">Korea / Suwon Yeongtong Hadong Office Project</p>
+                <p>역삼동 BL타워 신축 계획</p>
+                <p class="inner-text">Korea / Seoul Yeoksam Office Project</p>
+                <p>우면동 S사옥 신축계획</p>
+                <p class="inner-text">Korea / Seoul Umyeon Office Project</p>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <h3>- 2007</h3>
+                <p>건강나라 리조트 증축</p>
+                <p class="inner-text">Korea / GungangNara Resort</p>
+                <p>여수 오션리조트</p>
+                <p class="inner-text">Korea / Yeosu Ocean Resort</p>
+            </div>
+
+        </div>
+        <div class="row margin-top">
+            <div class="col-md-6 col-sm-6">
                 <h3>- 2012</h3>
                 <p>자곡동 근린생활시설 신축</p>
                 <p class="inner-text">Korea / Seoul Jagok Commercial Project</p>
@@ -148,9 +220,27 @@
                 <p>포천시 관인면 중리</p>
                 <p class="inner-text">Korea / Pochun kwanin jungri Office Project</p>
             </div>
+            <div class="col-md-6 col-sm-6">
+                <h3>- 2006</h3>
+                <p>시화호 복합리조트</p>
+                <p class="inner-text">Korea / Lake shihwa resort</p>
+                <p>P-신도시 개발계획</p>
+                <p class="inner-text">Korea / P City, Wonjoo Mater Plan</p>
+                <p>공주 골든힐 카운티 개발</p>
+                <p class="inner-text">Korea / Gongju Golden Hill Country</p>
+                <p>노원 사회복지시설</p>
+                <p class="inner-text">Korea / Aging Building Project</p>
+                <p>부안 자이오 파라다이스 리조트</p>
+                <p class="inner-text">Korea / Buan CEO Paradise Resort</p>
+                <p>정동진 타임힐 리조트 개발</p>
+                <p class="inner-text">Korea / Time Hill Resort</p>
+                <p>덕구관광호텔 증축개발</p>
+                <p class="inner-text">Korea / Deokgu Hotel</p>
+            </div>
+
         </div>
         <div class="row margin-top">
-            <div class="col-md-7 col-sm-6">
+            <div class="col-md-6 col-sm-6">
                 <h3>- 2011</h3>
                 <p>역삼동 중유빌딩 신축 계획</p>
                 <p class="inner-text">Korea / Seoul Yeoksam Office Project</p>
@@ -161,67 +251,44 @@
                 <p>첨당동 KJ빌딩 증축 계획</p>
                 <p class="inner-text">Korea / Seoul Chungdam KJ Blg Office Project</p>
             </div>
+            <div class="col-md-6 col-sm-6">
+                <h3>- 2005</h3>
+                <p>부안 지이오 파라다이스 컨트리클럽</p>
+                <p class="inner-text">Korea / Buan GEO paradise Country Club</p>
+                <p>홍천 리더스 카운티 특구 개발</p>
+                <p class="inner-text">Korea / Hongchon Leaders Country</p>
+                <p>고양 승마장 신축</p>
+                <p class="inner-text">Korea / Horse Riding Project</p>
+                <p>사천 오션리조트 개발</p>
+                <p class="inner-text">Korea / Sachun Ocean Resort</p>
+                <p>망상해수욕장 리조트 개발</p>
+                <p class="inner-text">Korea / Mangsang Resort</p>
+                <p>병영훈련 테마파크 개발</p>
+                <p class="inner-text">Korea / Army Life Theme Park</p>
+                <p>설악 워터피아 증축</p>
+                <p class="inner-text">Korea / Seorak Waterpia</p>
+            </div>
+
+        </div>
+        <div class="row margin-top">
+            <div class="col-md-6 col-sm-6">
+            </div>
         </div>
         <!-- /row -->
-        
+
         <!-- Border -->
         <div class="about-us-border"></div>
-        
-            <!-- How we work -->
-<!--            <div class="row about-us-top1">-->
-<!--                <div class="col-md-5 col-sm-6">-->
-<!--                    <img src="http://127.0.0.1/assets/img/photo4.jpg" alt="photo" class="resp-photo"/>-->
-<!--                </div>-->
-<!--                <div class="col-md-7 col-sm-6">-->
-<!--                    <h4>How we work</h4>-->
-<!--                      <div class="sub-header">Initial Consultation</div>-->
-<!--                           <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>-->
-<!--                      <div class="sub-header">Concept Plan</div>-->
-<!--                           <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>-->
-<!--                      <div class="sub-header">Master Plan</div>-->
-<!--                           <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.-->
-<!--                           Space, space: architects always talk about space! But creating a space is not automatically doing architecture. </p>-->
-<!--                </div>-->
-<!--            </div>-->
-            <!-- /row -->
-      
-            <!-- Border -->
 
-                <!-- Our Clients -->
-                <div class="row">
-                    <div class="col-md-12">
-                       <h3 class="our-clients-header">Our Clients</h3>
-                    </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1/assets/img/client-logo1.jpg" alt="photo" class="our-clients-photo"/>
-                    </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1/assets/img/client-logo2.jpg" alt="photo" class="our-clients-photo"/>
-                    </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1/assets/img/client-logo3.jpg" alt="photo" class="our-clients-photo"/>
-                    </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1/assets/img/client-logo4.jpg" alt="photo" class="our-clients-photo"/>
-                    </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1/assets/img/client-logo1.jpg" alt="photo" class="our-clients-photo"/>
-                    </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6">
-                         <img src="http://127.0.0.1/assets/img/client-logo5.jpg" alt="photo" class="our-clients-photo"/>
-                    </div>
-                </div>
-                <!-- /row --> 
-        
+
                <!-- Button -->
                <div class="text-center">
                    <a href="contact" class="btn red-btn">Contact us <i class="fa fa-long-arrow-right"></i></a>
                </div>
                <div class="margin-bottom"></div>
-        
+
     </div>
     <!-- /container -->
-    
+
     <!-- Footer -->
 	 <div id="footer">
          <div class="footerTop">
@@ -249,10 +316,8 @@
 					 <div class="col-md-6 col-sm-6 col-xs-6">
 						 <div class="footerMenu">
 							 <ul>
-								<li><a href="http://127.0.0.1/about-us">Work list</a></li>
-								<li><a href="news-home-1">News</a></li>
-								<li><a href="services1">Services</a></li>
-								<li class="last"><a href="portfolio-2-col">Portfolio</a></li>
+                                 <li><a href="http://127.0.0.1/controlls/about_us">Work list</a></li>
+                                 <li class="last"><a href="http://127.0.0.1/controlls/portfolio">Portfolio</a></li>
 							  </ul>
 						 </div><!-- /footerMenu -->
 					  </div>

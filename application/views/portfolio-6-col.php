@@ -54,6 +54,9 @@
                     <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
+                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                </li>
+                <li>
                     <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
@@ -91,17 +94,21 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/26.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/26.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project One
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">JAGOK HOUSE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2014<br>
+                LOCATION : 서울시 강남구 자곡동 440-129<br>
+                SiteArea : 309.00 m2<br>
+                GrossFloorArea : 324.48 m2<br>
+                BLDG. SCALE : B2F~2F<br>
+                Program : 단독주택<br>
+                Note : 설계/시공완료
+            </p>
         </div>
     </div>
 
@@ -109,17 +116,22 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/27.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/27.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Two
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+
+            <div class="portfolio-header">YEOKSAM OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2014<br>
+                LOCATION : 서울시 강남구 역삼동 797-26<br>
+                SiteArea : 949.70 m2<br>
+                GrossFloorArea : 3,989.19 m2<br>
+                BLDG. SCALE : B2F~6F<br>
+                Program : 업무 및 근린생활시설<br>
+                Note : 현장설계(안)
+            </p>
         </div>
     </div>
 
@@ -127,17 +139,43 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/28.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/28.jpg" alt="photo"/>
+        </div>
+
+        <div class="portfolio-header">INCHEON FISH MARKET</div>
+        <br>
+        <div class="portfolio-subheader">Description</div>
+
+        <p> SINCE : 2015<br>
+            LOCATION : 인천 항동7가<br>
+            SiteArea : 10,999.50 m2<br>
+            GrossFloorArea : 57,559.48 m2<br>
+            BLDG. SCALE : B3F~4F (4개동)<br>
+            Program : 판매시설, 근린생활시설<br>
+            Note : 허가완료
+        </p>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="col-md-7">
+                <img   src="http://127.0.0.1/assets/img/29.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Three
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">SEOCHO OFFICE OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2015<br>
+                LOCATION : 서울시 강남구 서초동 1544-14<br>
+                SiteArea : 298.00 m2<br>
+                GrossFloorArea : 1,874.07 m2<br>
+                BLDG. SCALE : B2F~10F<br>
+                Program : Office<br>
+                Note : 설계시공중
+            </p>
+
         </div>
     </div>
 
@@ -145,35 +183,21 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/29.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/30.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Four
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
-        </div>
-    </div>
+            <div class="portfolio-header">SEOCHO PARKVIEW BUILDING</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
 
-    <hr>
-
-    <div class="row">
-        <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/30.jpg" alt="photo"/>
-            </a>
-        </div>
-        <div class="col-md-5">
-            <div class="portfolio-header">Project Five
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <p> SINCE : 2015<br>
+                LOCATION : 서울시 서초구 서초동 1544-14,15<br>
+                SiteArea : 390.00 m2<br>
+                GrossFloorArea : 1,136.78 m2<br>
+                BLDG. SCALE : B1F~6F<br>
+                Program : 근린생활시설<br>
+                Note : 설계/시공중
+            </p>
         </div>
     </div>
 
@@ -182,7 +206,7 @@
     <div class="row text-center">
         <div class="col-md-12">
             <ul class="pagination">
-                <li class="active">
+                <li>
                     <a href="http://127.0.0.1/controlls/portfolio/1">1</a>
                 </li>
                 <li>
@@ -197,7 +221,7 @@
                 <li>
                     <a href="http://127.0.0.1/controlls/portfolio/5">5</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="http://127.0.0.1/controlls/portfolio/6">6</a>
                 </li>
                 <li>

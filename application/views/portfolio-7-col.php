@@ -54,6 +54,9 @@
                     <a href="http://127.0.0.1/controlls">Home</a>
                 </li>
                 <li>
+                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                </li>
+                <li>
                     <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                 </li>
                 <li>
@@ -91,17 +94,21 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/31.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/31.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project One
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>You cannot simply put something new into a place. You have to absorb what you see around you, what exists on the land, and then use that knowledge along with contemporary thinking to interpret what you see.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">SEOCHO PARKVIEW BUILDING</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2016<br>
+                LOCATION : 서울시 관악구 봉천동 1597-23<br>
+                SiteArea : 631.30 m2<br>
+                GrossFloorArea : 2,559.30 m2
+                BLDG. SCALE : B2F~7F
+                Program : OFFICE
+                Note : 설계
+            </p>
         </div>
     </div>
 
@@ -109,24 +116,28 @@
 
     <div class="row">
         <div class="col-md-7">
-            <a href="portfolio-item.html">
-                <img class="img-hover" src="http://127.0.0.1/assets/img/32.jpg" alt="photo"/>
-            </a>
+                <img   src="http://127.0.0.1/assets/img/32.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
-            <div class="portfolio-header">Project Two
-            </div>
-            <div class="portfolio-subheader">Subheading
-            </div>
-            <p>Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</p>
-            <a class="btn portfolio-btn" href="portfolio-item1.html">View Project</a>
+            <div class="portfolio-header">NONHYOUN OFFICE</div>
+            <br>
+            <div class="portfolio-subheader">Description</div>
+
+            <p> SINCE : 2016<br>
+                LOCATION : 서울시 강남구 논현동 269-5<br>
+                SiteArea : 481.10 m2<br>
+                GrossFloorArea : 1303.04 m2
+                BLDG. SCALE : B1F~5F
+                Program : 근린생활시설
+                Note : 설계/시공중
+            </p>
         </div>
     </div>
 
     <div class="row text-center">
         <div class="col-md-12">
             <ul class="pagination">
-                <li class="active">
+                <li>
                     <a href="http://127.0.0.1/controlls/portfolio/1">1</a>
                 </li>
                 <li>
@@ -144,7 +155,7 @@
                 <li>
                     <a href="http://127.0.0.1/controlls/portfolio/6">6</a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="http://127.0.0.1/controlls/portfolio/7">7</a>
                 </li>
             </ul>

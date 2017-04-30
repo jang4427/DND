@@ -45,6 +45,9 @@
                         <a href="http://127.0.0.1/controlls">Home</a>
                     </li>
                     <li>
+                        <a href="http://127.0.0.1/controlls/career">Career</a>
+                    </li>
+                    <li>
                         <a href="http://127.0.0.1/controlls/about_us">Work list</a>
                     </li>
                     <li>
@@ -89,7 +92,7 @@
                 </div>
                 <div class="news-date"><i class="fa fa-clock-o"></i> October 28, 2014</div>
                     <a href="news-post.html">
-                       <img class="img-hover" src="http://127.0.0.1/assets/img/news-image1.jpg" alt="photo"/>
+                       <img   src="http://127.0.0.1/assets/img/news-image1.jpg" alt="photo"/>
                     </a>
                     <div class="news-text">Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</div>
                         <a class="news-btn btn" href="#">Read More <i class="fa fa-angle-right"></i>
@@ -101,7 +104,7 @@
                 </div>
                 <div class="news-date"><i class="fa fa-clock-o"></i> October 28, 2014</div>
                     <a href="news-post.html">
-                       <img class="img-hover" src="http://127.0.0.1/assets/img/news-image2.jpg" alt="photo"/>
+                       <img   src="http://127.0.0.1/assets/img/news-image2.jpg" alt="photo"/>
                     </a>
                     <div class="news-text">Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</div>
                         <a class="news-btn btn" href="#">Read More <i class="fa fa-angle-right"></i>
@@ -115,7 +118,7 @@
 
                 <div class="news-date"><i class="fa fa-clock-o"></i> October 28, 2014</div>
                     <a href="news-post.html">
-                       <img class="img-hover" src="http://127.0.0.1/assets/img/news-image3.jpg" alt="photo"/>
+                       <img   src="http://127.0.0.1/assets/img/news-image3.jpg" alt="photo"/>
                     </a>
                       <div class="news-text">Space, space: architects always talk about space! But creating a space is not automatically doing architecture. With the same space, you can make a masterpiece or cause a disaster.</div>
                           <a class="news-btn btn" href="#">Read More <i class="fa fa-angle-right"></i></a>
