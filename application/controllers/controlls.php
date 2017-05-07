@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class controlls extends CI_Controller {
+class Controlls extends CI_Controller {
 
 	function __construct()
 	{
@@ -11,7 +11,7 @@ class controlls extends CI_Controller {
 	public function initPaging()
 	{
 		$this->load->library('pagination');
-		$config['base_url'] = 'http://127.0.0.1/controlls/portfolio';
+		$config['base_url'] = 'http://gotqks2.cafe24.com/controlls/portfolio';
 		$config['total_rows'] = 20;
 		$config['per_page'] = 5;
 
@@ -70,37 +70,35 @@ class controlls extends CI_Controller {
 
 	public function send()
 	{
-		error_log(print_r($this->input->post(), true));
 		$this->sendEmail();
 	}
 
+    // 경고메세지만 출력
+    private function alert($msg) {
+        $CI =& get_instance();
+
+        echo "<meta http-equiv=\"content-type\" content=\"text/html; charset=".$CI->config->item('charset')."\">";
+        echo "<script type='text/javascript'> alert('".$msg."'); </script>";
+        exit;
+    }
+
 	private function sendEmail()
 	{
-		$aInput = $this->input->post('name');
-		error_log(print_r($aInput, true));
-
-		$EmailFrom = "TEST";
+		$EmailFrom = Trim(stripslashes($_POST['Name']));
 		$EmailTo = "01692204427@naver.com";
 		$Subject = "From website";
-//$Name = Trim(stripslashes($_POST['Name']));
-//$Email = Trim(stripslashes($_POST['Email']));
-//$Message = Trim(stripslashes($_POST['Message']));
-		$Name = trim(stripslashes('jang'));
-		$Email = trim(stripslashes('01692204427@naver.com'));
-		$Message = trim(stripslashes('kkkk'));
+        $Name = Trim(stripslashes($_POST['Name']));
+        $Email = Trim(stripslashes($_POST['Email']));
+        $Message = Trim(stripslashes($_POST['Message']));
 
-		error_log(print_r($_POST, true));
-//		error_log(print_r($Name, true));
-//		error_log(print_r($Email, true));
-//		error_log(print_r($Message, true));
-// validation
+        // validation
 		$validationOK=true;
 		if (!$validationOK) {
 			print "<meta http-equiv=\"refresh\" content=\"0;URL=error.htm\">";
 			exit;
 		}
 
-// prepare email body text
+        // prepare email body text
 		$Body = "";
 		$Body .= "Name: ";
 		$Body .= $Name;
@@ -112,15 +110,17 @@ class controlls extends CI_Controller {
 		$Body .= $Message;
 		$Body .= "\n";
 
-// send email
+        // send email
 		$success = mail($EmailTo, $Subject, $Body, "From: <$EmailFrom>");
-// redirect to success page
-		if ($success){
-			error_log('sucess');
-//			print "<meta http-equiv=\"refresh\" content=\"0;URL=http://yourwebsite.com/\">";
-		}
-		else{
-			error_log('fail');
-		}
-	}
+
+        // redirect to success page
+        if ($success) {
+            print "<meta http-equiv=\"refresh\" content=\"0;URL=http://gotqks2.cafe24.com/controlls/contact/\">";
+            $this->alert('메일 발송에 성공하였습니다.');
+        }
+        else {
+            $this->alert('메일 발송에 실패하였습니다. \n 02-6207-9908로 문의 주세요');
+        }
+
+    }
 }

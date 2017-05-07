@@ -104,7 +104,7 @@ class CI_Config {
 			}
 			else
 			{
-				$base_url = 'http://127.0.0.1/';
+				$base_url = 'http://gotqks2.cafe24.com/';
 			}
 
 			$this->set_item('base_url', $base_url);

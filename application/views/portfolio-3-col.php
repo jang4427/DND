@@ -10,17 +10,17 @@
     <title>Portfolio</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="http://127.0.0.1/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://gotqks2.cafe24.com/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="http://127.0.0.1/assets/css/main.css" rel="stylesheet">
+    <link href="http://gotqks2.cafe24.com/assets/css/main.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
-    <link href="http://127.0.0.1/assets/css/responsive.css" rel="stylesheet">
+    <link href="http://gotqks2.cafe24.com/assets/css/responsive.css" rel="stylesheet">
 
 
     <!-- Custom Fonts -->
-    <link href="http://127.0.0.1/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://gotqks2.cafe24.com/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -45,28 +45,28 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://127.0.0.1/index.html"><img src="http://127.0.0.1/assets/img/logo.png" alt=""/></a>
+            <a class="navbar-brand" href="http://gotqks2.cafe24.com/controlls"><img src="http://gotqks2.cafe24.com/assets/img/logo.png" alt=""/></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="http://127.0.0.1/controlls">Home</a>
+                    <a href="http://gotqks2.cafe24.com/controlls">Home</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/career">Career</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/career">Career</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/about_us">Work list</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/about_us">Work list</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/portfolio">Portfolio</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio">Portfolio</a>
                 </li>
 <!--                <li>-->
-<!--                    <a href="http://127.0.0.1/controlls/news">News</a>-->
+<!--                    <a href="http://gotqks2.cafe24.com/controlls/news">News</a>-->
 <!--                </li>-->
                 <li>
-                    <a href="http://127.0.0.1/controlls/contact">Contact</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/contact">Contact</a>
                 </li>
             </ul>
         </div>
@@ -94,7 +94,7 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-                <img   src="http://127.0.0.1/assets/img/11.jpg" alt="photo"/>
+                <img   src="http://gotqks2.cafe24.com/assets/img/11.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">CHEORWON SPA LAND</div>
@@ -115,7 +115,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://127.0.0.1/assets/img/12.jpg" alt="photo"/>
+                <img   src="http://gotqks2.cafe24.com/assets/img/12.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">KI CANNAL</div>
@@ -135,7 +135,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://127.0.0.1/assets/img/13.jpg" alt="photo"/>
+                <img   src="http://gotqks2.cafe24.com/assets/img/13.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">DEOKGU HOTEL EXTENSION</div>
@@ -156,7 +156,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://127.0.0.1/assets/img/14.jpg" alt="photo"/>
+                <img   src="http://gotqks2.cafe24.com/assets/img/14.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">GLOBAL CARE CITY</div>
@@ -177,7 +177,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://127.0.0.1/assets/img/15.jpg" alt="photo"/>
+                <img   src="http://gotqks2.cafe24.com/assets/img/15.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">SIHWA NARU SERVICE AREA</div>
@@ -200,25 +200,25 @@
         <div class="col-md-12">
             <ul class="pagination">
                 <li>
-                    <a href="http://127.0.0.1/controlls/portfolio/1">1</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio/1">1</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/portfolio/2">2</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio/2">2</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/portfolio/3">3</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio/3">3</a>
                 </li>
                 <li class="active">
-                    <a href="http://127.0.0.1/controlls/portfolio/4">4</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio/4">4</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/portfolio/5">5</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio/5">5</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/portfolio/6">6</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio/6">6</a>
                 </li>
                 <li>
-                    <a href="http://127.0.0.1/controlls/portfolio/7">7</a>
+                    <a href="http://gotqks2.cafe24.com/controlls/portfolio/7">7</a>
                 </li>
             </ul>
         </div>
@@ -227,43 +227,22 @@
 </div>
 
 
-<!-- Footer -->
 <div id="footer">
     <div class="footerTop">
         <div class="container">
             <div class="row">
                 <!-- Footer Box1 -->
-                <div class="col-md-3 col-sm-3"><div class="logoBottom"><i class="fa fa-cubes"></i> architect</div></div>
+                <div class="col-md-4 col-sm-3"><div class="logoBottom"><i class="fa fa-cubes"></i> architect</div></div>
                 <!-- Footer Box2 -->
-                <div class="col-md-3 col-sm-3">
+                <div class="col-md-4 col-sm-3">
                     <h5>Contact info</h5>
-                    <p>22 Central Park South, New York, NY 10019</p>
-                    <p>Call us: 212-222-4000</p>
-                    <p>Email: <a href="mailto:architecture@office.com">architecture@office.com</a></p>
+                    <p>서울특별시 강남구 논현동 177-12 1층 <br>
+                        (177-12, Nonhyeon-Dong, Gangnam-Gu, Seoul, Korea)<br>
+                        Tel: 02-6207-9908<br>
+                        Fax: 070-4712-4831<br>
+                        대표이사: 박남규</p>
                 </div>
 
-                <!-- Footer Box3 -->
-                <div class="col-md-3 col-sm-3">
-                    <h5>Follow us</h5>
-                    <p>Space, space: architects always talk about.</p>
-                    <div class="footerLinkList">
-                        <a href="#" class="icons-res"><i class="fa fa-facebook fa-2x"></i></a>
-                        <a href="#" class="icons"><i class="fa fa-twitter fa-2x icon1"></i></a>
-                        <a href="#" class="icons"><i class="fa fa-instagram fa-2x icon1"></i></a>
-                        <a href="#" class="icons"><i class="fa fa-linkedin fa-2x icon1"></i></a>
-                    </div><!-- /footerLinkList -->
-                </div>
-                <!-- Footer Box4 -->
-                <div class="col-md-3 col-sm-3">
-                    <h5>More links</h5>
-                    <p>Space, space: architects always talk about.</p>
-                    <div class="footerLinkList">
-                        <ul>
-                            <li><a href="http://127.0.0.1/faq.html">Faq</a></li>
-                            <li><a href="team.html">Team</a></li>
-                        </ul>
-                    </div><!-- /footerLinkList -->
-                </div>
 
             </div><!-- /row -->
         </div><!-- /container -->
@@ -274,10 +253,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-6">
                     <div class="footerMenu">
                         <ul>
-                            <li><a href="http://127.0.0.1/controlls/about_us">Work list</a></li>
-<!--                            <li><a href="http://127.0.0.1/controlls/news">News</a></li>-->
-<!--                            <li><a href="services1.html">Services</a></li>-->
-                            <li class="last"><a href="http://127.0.0.1/controlls/portfolio">Portfolio</a></li>
+                            <li><a href="http://gotqks2.cafe24.com/controlls/about_us">Work list</a></li>
+                            <li class="last"><a href="http://gotqks2.cafe24.com/controlls/portfolio">Portfolio</a></li>
                         </ul>
                     </div><!-- /footerMenu -->
                 </div>
@@ -292,13 +269,13 @@
 
 
 <!-- jQuery Version 1.11.0 -->
-<script src="http://127.0.0.1/assets/js/jquery-1.11.0.js"></script>
+<script src="http://gotqks2.cafe24.com/assets/js/jquery-1.11.0.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="http://127.0.0.1/assets/js/bootstrap.min.js"></script>
+<script src="http://gotqks2.cafe24.com/assets/js/bootstrap.min.js"></script>
 
 <!-- Smooth scroll JS -->
-<script src="http://127.0.0.1/assets/js/smoothscroll.js"></script>
+<script src="http://gotqks2.cafe24.com/assets/js/smoothscroll.js"></script>
 
 
 </body>
