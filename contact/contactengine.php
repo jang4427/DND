@@ -38,7 +38,7 @@ $Body .= "\n";
 // redirect to success page
 if ($success){
   error_log('sucess');
-//  print "<meta http-equiv=\"refresh\" content=\"0;URL=http://dndgroup.kr/controlls/contact\">";
+//  print "<meta http-equiv=\"refresh\" content=\"0;URL=http://localhost/controlls/contact\">";
 }
 else{
   error_log('fail');

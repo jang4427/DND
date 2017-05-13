@@ -10,17 +10,17 @@
     <title>Portfolio</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="http://dndgroup.kr/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="http://dndgroup.kr/assets/css/main.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
-    <link href="http://dndgroup.kr/assets/css/responsive.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/responsive.css" rel="stylesheet">
 
 
     <!-- Custom Fonts -->
-    <link href="http://dndgroup.kr/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -45,28 +45,28 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://dndgroup.kr/controlls"><img src="http://dndgroup.kr/assets/img/logo.png" alt="" style="width: 150px;"></a>
+            <a class="navbar-brand" href="http://localhost/controlls"><img src="http://localhost/assets/img/logo.png" alt="" style="width: 150px;"></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="http://dndgroup.kr/controlls">Home</a>
+                    <a href="http://localhost/controlls">Home</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/career">Career</a>
+                    <a href="http://localhost/controlls/career">Career</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/about_us">Work list</a>
+                    <a href="http://localhost/controlls/about_us">Work list</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio">Portfolio</a>
+                    <a href="http://localhost/controlls/portfolio">Portfolio</a>
                 </li>
 <!--                <li>-->
-<!--                    <a href="http://dndgroup.kr/controlls/news">News</a>-->
+<!--                    <a href="http://localhost/controlls/news">News</a>-->
 <!--                </li>-->
                 <li>
-                    <a href="http://dndgroup.kr/controlls/contact">Contact</a>
+                    <a href="http://localhost/controlls/contact">Contact</a>
                 </li>
             </ul>
         </div>
@@ -94,7 +94,7 @@
 
     <div class="row margin-top">
         <div class="col-md-7">
-                <img   src="http://dndgroup.kr/assets/img/6.jpg" alt="photo"/>
+                <img   src="http://localhost/assets/img/6.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">SEOCHO OFFICE</div>
@@ -114,7 +114,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://dndgroup.kr/assets/img/7.jpg" alt="photo"/>
+                <img   src="http://localhost/assets/img/7.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">SAMSUNG OFFICE</div>
@@ -134,7 +134,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://dndgroup.kr/assets/img/8.jpg" alt="photo"/>
+                <img   src="http://localhost/assets/img/8.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">SANBON MIXED USE BUILDING</div>
@@ -155,7 +155,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://dndgroup.kr/assets/img/9.jpg" alt="photo"/>
+                <img   src="http://localhost/assets/img/9.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">NEW DAY C.C CLUB HOUSE</div>
@@ -175,7 +175,7 @@
 
     <div class="row">
         <div class="col-md-7">
-                <img   src="http://dndgroup.kr/assets/img/10.jpg" alt="photo"/>
+                <img   src="http://localhost/assets/img/10.jpg" alt="photo"/>
         </div>
         <div class="col-md-5">
             <div class="portfolio-header">GRAND OCEAN PARK</div>
@@ -198,25 +198,25 @@
         <div class="col-md-12">
             <ul class="pagination">
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio/1">1</a>
+                    <a href="http://localhost/controlls/portfolio/1">1</a>
                 </li>
                 <li class="active">
-                    <a href="http://dndgroup.kr/controlls/portfolio/2">2</a>
+                    <a href="http://localhost/controlls/portfolio/2">2</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio/3">3</a>
+                    <a href="http://localhost/controlls/portfolio/3">3</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio/4">4</a>
+                    <a href="http://localhost/controlls/portfolio/4">4</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio/5">5</a>
+                    <a href="http://localhost/controlls/portfolio/5">5</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio/6">6</a>
+                    <a href="http://localhost/controlls/portfolio/6">6</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio/7">7</a>
+                    <a href="http://localhost/controlls/portfolio/7">7</a>
                 </li>
             </ul>
         </div>
@@ -251,8 +251,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-6">
                     <div class="footerMenu">
                         <ul>
-                            <li><a href="http://dndgroup.kr/controlls/about_us">Work list</a></li>
-                            <li class="last"><a href="http://dndgroup.kr/controlls/portfolio">Portfolio</a></li>
+                            <li><a href="http://localhost/controlls/about_us">Work list</a></li>
+                            <li class="last"><a href="http://localhost/controlls/portfolio">Portfolio</a></li>
                         </ul>
                     </div><!-- /footerMenu -->
                 </div>
@@ -267,13 +267,13 @@
 
 
 <!-- jQuery Version 1.11.0 -->
-<script src="http://dndgroup.kr/assets/js/jquery-1.11.0.js"></script>
+<script src="http://localhost/assets/js/jquery-1.11.0.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="http://dndgroup.kr/assets/js/bootstrap.min.js"></script>
+<script src="http://localhost/assets/js/bootstrap.min.js"></script>
 
 <!-- Smooth scroll JS -->
-<script src="http://dndgroup.kr/assets/js/smoothscroll.js"></script>
+<script src="http://localhost/assets/js/smoothscroll.js"></script>
 
 
 </body>

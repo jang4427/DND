@@ -10,16 +10,16 @@
     <title>Architect - Contact</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="http://dndgroup.kr/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="http://dndgroup.kr/assets/css/main.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
     
     <!-- Responsive CSS -->
-    <link href="http://dndgroup.kr/assets/css/responsive.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/responsive.css" rel="stylesheet">
     
     <!-- Custom Fonts -->
-    <link href="http://dndgroup.kr/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://localhost/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -30,8 +30,7 @@
     <![endif]-->
     
      <!-- Google Map -->
-     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-
+     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBRtSzaiusdcAfYIRnaKfQKXX9Z1JmCbHQ"></script>
 </head>
 
 <body>
@@ -47,28 +46,28 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://dndgroup.kr/controlls"><img src="http://dndgroup.kr/assets/img/logo.png" alt="" style="width: 150px;"></a>
+                <a class="navbar-brand" href="http://localhost/controlls"><img src="http://localhost/assets/img/logo.png" alt="" style="width: 150px;"></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="http://dndgroup.kr/controlls">Home</a>
+                        <a href="http://localhost/controlls">Home</a>
                     </li>
                     <li>
-                        <a href="http://dndgroup.kr/controlls/career">Career</a>
+                        <a href="http://localhost/controlls/career">Career</a>
                     </li>
                     <li>
-                        <a href="http://dndgroup.kr/controlls/about_us">Work list</a>
+                        <a href="http://localhost/controlls/about_us">Work list</a>
                     </li>
                     <li>
-                        <a href="http://dndgroup.kr/controlls/portfolio">Portfolio</a>
+                        <a href="http://localhost/controlls/portfolio">Portfolio</a>
                     </li>
 <!--                    <li>-->
-<!--                        <a href="http://dndgroup.kr/controlls/news">News</a>-->
+<!--                        <a href="http://localhost/controlls/news">News</a>-->
 <!--                    </li>-->
                     <li>
-                        <a href="http://dndgroup.kr/controlls/contact">Contact</a>
+                        <a href="http://localhost/controlls/contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -124,7 +123,7 @@
             <!-- Contact Form -->
             <div class="col-md-5">
                 <div class="contact-header">Send us a Message</div>
-               <form method="post" action="http://dndgroup.kr/controlls/send/">
+               <form method="post" action="http://localhost/controlls/send/">
                     <div class="control-group form-group">
                         <div class="controls">
                             <label>Name:</label>
@@ -185,10 +184,10 @@
 					 <div class="col-md-6 col-sm-6 col-xs-6">
 						 <div class="footerMenu">
 							 <ul>
-								<li><a href="http://dndgroup.kr/controlls/about_us">Work list</a></li>
-<!--								<li><a href="http://dndgroup.kr/controlls/news">News</a></li>-->
+								<li><a href="http://localhost/controlls/about_us">Work list</a></li>
+<!--								<li><a href="http://localhost/controlls/news">News</a></li>-->
 <!--								<li><a href="services1.html">Services</a></li>-->
-								<li class="last"><a href="http://dndgroup.kr/controlls/portfolio">Portfolio</a></li>
+								<li class="last"><a href="http://localhost/controlls/portfolio">Portfolio</a></li>
 							  </ul>
 						 </div><!-- /footerMenu -->
 					  </div>
@@ -203,16 +202,16 @@
 
 
      <!-- jQuery Version 1.11.0 -->
-     <script src="http://dndgroup.kr/assets/js/jquery-1.11.0.js"></script>
+     <script src="http://localhost/assets/js/jquery-1.11.0.js"></script>
 
      <!-- Bootstrap Core JavaScript -->
-     <script src="http://dndgroup.kr/assets/js/bootstrap.min.js"></script>
+     <script src="http://localhost/assets/js/bootstrap.min.js"></script>
      
      <!-- Google map JS -->
-     <script src="http://dndgroup.kr/assets/js/app.js"></script>
+     <script src="http://localhost/assets/js/app.js"></script>
      
      <!-- Smooth scroll JS -->
-     <script src="http://dndgroup.kr/assets/js/smoothscroll.js"></script>
+     <script src="http://localhost/assets/js/smoothscroll.js"></script>
 
 
 </body>

@@ -10,16 +10,16 @@
     <title>Design&Development Group</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="http://dndgroup.kr/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="http://dndgroup.kr/assets/css/main.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/main.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
-    <link href="http://dndgroup.kr/assets/css/responsive.css" rel="stylesheet">
+    <link href="http://localhost/assets/css/responsive.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="http://dndgroup.kr/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet"
+    <link href="http://localhost/assets/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet"
           type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
@@ -45,25 +45,25 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://dndgroup.kr/controlls"><img src="http://dndgroup.kr/assets/img/logo.png" alt="" style="width: 150px;"></a>
+            <a class="navbar-brand" href="http://localhost/controlls"><img src="http://localhost/assets/img/logo.png" alt="" style="width: 150px;"></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="http://dndgroup.kr/controlls">Home</a>
+                    <a href="http://localhost/controlls">Home</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/career">Career</a>
+                    <a href="http://localhost/controlls/career">Career</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/about_us">Work list</a>
+                    <a href="http://localhost/controlls/about_us">Work list</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/portfolio">Portfolio</a>
+                    <a href="http://localhost/controlls/portfolio">Portfolio</a>
                 </li>
                 <li>
-                    <a href="http://dndgroup.kr/controlls/contact">Contact</a>
+                    <a href="http://localhost/controlls/contact">Contact</a>
                 </li>
             </ul>
         </div>
@@ -83,7 +83,7 @@
                     <h1 class="main-text">
                     <span class="part">D</span>esign<span class="part">&amp;D</span>evelopment<br>Group</h1>
                     <!--<p class="intro-text">Buildings should imitate ecological systems.</p>-->
-                    <a href="http://dndgroup.kr/controlls/portfolio" class="btn ghost-btn">our work</a>
+                    <a href="http://localhost/controlls/portfolio" class="btn ghost-btn">our work</a>
                 </div>
             </div>
         </div>
@@ -111,7 +111,7 @@
         <!-- Box1 -->
         <div class="col-md-6 col-sm-6">
             <div class="panel-default">
-                <img src="http://dndgroup.kr/assets/img/photo1.jpg" alt="photo"/>
+                <img src="http://localhost/assets/img/photo1.jpg" alt="photo"/>
 
                 <!--<div class="panel-heading">
                     <h2>Work list</h2>
@@ -119,7 +119,7 @@
                 <div class="panel-body">
                     <!--<p>작성해야함</p>-->
                     <div class="text-center">
-                        <a href="http://dndgroup.kr/controlls/about_us" class="resp-btn btn">Work list <i
+                        <a href="http://localhost/controlls/about_us" class="resp-btn btn">Work list <i
                                 class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
         <!-- Box2 -->
         <div class="col-md-6 col-sm-6">
             <div class="panel-default">
-                <img src="http://dndgroup.kr/assets/img/photo2.jpg" alt="photo"/>
+                <img src="http://localhost/assets/img/photo2.jpg" alt="photo"/>
 
                 <!--<div class="panel-heading">
                     <h2>Career</h2>
@@ -140,7 +140,7 @@
                     <!--<p>작성해야함</p>-->
 
                     <div class="text-center">
-                        <a href="http://dndgroup.kr/controlls/news" class="resp-btn btn">Career <i
+                        <a href="http://localhost/controlls/news" class="resp-btn btn">Career <i
                                 class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
         <!-- Box-Image1 -->
         <div class="col-md-6 col-sm-6 img-portfolio">
             <div class="img-wrapper">
-                <img src="http://dndgroup.kr/assets/img/30.jpg" alt="photo"/></a>
+                <img src="http://localhost/assets/img/30.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image1 -->
@@ -202,7 +202,7 @@
         <!-- Box-Image2 -->
         <div class="col-md-6 col-sm-6 img-portfolio">
             <div class="img-wrapper">
-                <img src="http://dndgroup.kr/assets/img/27.jpg" alt="photo"/></a>
+                <img src="http://localhost/assets/img/27.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image2 -->
@@ -211,7 +211,7 @@
         <!-- Box-Image3 -->
         <div class="col-md-4 col-sm-4 img-portfolio">
             <div class="img-wrapper">
-                <img src="http://dndgroup.kr/assets/img/26.jpg" alt="photo"/></a>
+                <img src="http://localhost/assets/img/26.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image3 -->
@@ -220,7 +220,7 @@
         <!-- Box-Image4 -->
         <div class="col-md-4 col-sm-4 img-portfolio">
             <div class="img-wrapper">
-                <img src="http://dndgroup.kr/assets/img/31.jpg" alt="photo"/></a>
+                <img src="http://localhost/assets/img/31.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image4 -->
@@ -229,19 +229,19 @@
         <!-- Box-Image5 -->
         <div class="col-md-4 col-sm-4 img-portfolio">
             <div class="img-wrapper">
-                <img src="http://dndgroup.kr/assets/img/20.jpg" alt="photo"/></a>
+                <img src="http://localhost/assets/img/20.jpg" alt="photo"/></a>
             </div>
         </div>
         <!-- /box-image5 -->
         <div class="col-md-4 col-sm-4 img-portfolio">
             <div class="img-wrapper">
-                <img src="http://dndgroup.kr/assets/img/22.jpg" alt="photo"/></a>
+                <img src="http://localhost/assets/img/22.jpg" alt="photo"/></a>
             </div>
         </div>
 
         <!-- View all projects button -->
         <div class="text-center">
-            <a href="http://dndgroup.kr/controlls/portfolio" class="resp-btn btn">
+            <a href="http://localhost/controlls/portfolio" class="resp-btn btn">
                 View all projects <i class="fa fa-long-arrow-right"></i>
             </a>
         </div>
@@ -336,8 +336,8 @@
                 <div class="col-md-6 col-sm-6 col-xs-6">
                     <div class="footerMenu">
                         <ul>
-                            <li><a href="http://dndgroup.kr/controlls/about_us">Work list</a></li>
-                            <li class="last"><a href="http://dndgroup.kr/controlls/portfolio">Portfolio</a></li>
+                            <li><a href="http://localhost/controlls/about_us">Work list</a></li>
+                            <li class="last"><a href="http://localhost/controlls/portfolio">Portfolio</a></li>
                         </ul>
                     </div><!-- /footerMenu -->
                 </div>
@@ -354,15 +354,15 @@
 
 
 <!-- jQuery Version 1.11.0 -->
-<script src="http://dndgroup.kr/assets/js/jquery-1.11.0.js"></script>
+<script src="http://localhost/assets/js/jquery-1.11.0.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="http://dndgroup.kr/assets/js/bootstrap.min.js"></script>
+<script src="http://localhost/assets/js/bootstrap.min.js"></script>
 
 <!-- Smooth scroll JS -->
-<script src="http://dndgroup.kr/assets/js/smoothscroll.js"></script>
+<script src="http://localhost/assets/js/smoothscroll.js"></script>
 
-<script src="http://dndgroup.kr/assets/js/responsiveslides.min.js"></script>
+<script src="http://localhost/assets/js/responsiveslides.min.js"></script>
 <script>
     $(function () {
         $(".rslides").responsiveSlides();
