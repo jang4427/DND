@@ -104,9 +104,9 @@
             <p> SINCE : 2016<br>
                 LOCATION : 서울시 관악구 봉천동 1597-23<br>
                 SiteArea : 631.30 m2<br>
-                GrossFloorArea : 2,559.30 m2
-                BLDG. SCALE : B2F~7F
-                Program : OFFICE
+                GrossFloorArea : 2,559.30 m2<br>
+                BLDG. SCALE : B2F~7F<br>
+                Program : OFFICE<br>
                 Note : 설계
             </p>
         </div>
@@ -126,9 +126,9 @@
             <p> SINCE : 2016<br>
                 LOCATION : 서울시 강남구 논현동 269-5<br>
                 SiteArea : 481.10 m2<br>
-                GrossFloorArea : 1303.04 m2
-                BLDG. SCALE : B1F~5F
-                Program : 근린생활시설
+                GrossFloorArea : 1303.04 m2<br>
+                BLDG. SCALE : B1F~5F<br>
+                Program : 근린생활시설<br>
                 Note : 설계/시공중
             </p>
         </div>
