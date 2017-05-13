@@ -1,13 +1,13 @@
 <?php
 
 $EmailFrom = "TEST";
-$EmailTo = "01692204427@naver.com";
+$EmailTo = "dndgroup@daum.net";
 $Subject = "From website";
 //$Name = Trim(stripslashes($_POST['Name']));
 //$Email = Trim(stripslashes($_POST['Email']));
 //$Message = Trim(stripslashes($_POST['Message']));
 $Name = trim(stripslashes('jang'));
-$Email = trim(stripslashes('01692204427@naver.com'));
+$Email = trim(stripslashes('dndgroup@daum.net'));
 $Message = trim(stripslashes('kkkk'));
 
 error_log(print_r($_POST, true));
@@ -38,7 +38,7 @@ $Body .= "\n";
 // redirect to success page
 if ($success){
   error_log('sucess');
-//  print "<meta http-equiv=\"refresh\" content=\"0;URL=http://gotqks2.cafe24.com/controlls/contact\">";
+//  print "<meta http-equiv=\"refresh\" content=\"0;URL=http://dndgroup.kr/controlls/contact\">";
 }
 else{
   error_log('fail');

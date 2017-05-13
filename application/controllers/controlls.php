@@ -11,7 +11,7 @@ class Controlls extends CI_Controller {
 	public function initPaging()
 	{
 		$this->load->library('pagination');
-		$config['base_url'] = 'http://gotqks2.cafe24.com/controlls/portfolio';
+		$config['base_url'] = 'http://dndgroup.kr/controlls/portfolio';
 		$config['total_rows'] = 20;
 		$config['per_page'] = 5;
 
@@ -85,7 +85,7 @@ class Controlls extends CI_Controller {
 	private function sendEmail()
 	{
 		$EmailFrom = Trim(stripslashes($_POST['Name']));
-		$EmailTo = "01692204427@naver.com";
+		$EmailTo = "dndgroup@daum.net";
 		$Subject = "From website";
         $Name = Trim(stripslashes($_POST['Name']));
         $Email = Trim(stripslashes($_POST['Email']));
@@ -115,7 +115,7 @@ class Controlls extends CI_Controller {
 
         // redirect to success page
         if ($success) {
-            print "<meta http-equiv=\"refresh\" content=\"0;URL=http://gotqks2.cafe24.com/controlls/contact/\">";
+            print "<meta http-equiv=\"refresh\" content=\"0;URL=http://dndgroup.kr/controlls/contact/\">";
             $this->alert('메일 발송에 성공하였습니다.');
         }
         else {

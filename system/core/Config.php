@@ -104,7 +104,7 @@ class CI_Config {
 			}
 			else
 			{
-				$base_url = 'http://gotqks2.cafe24.com/';
+				$base_url = 'http://dndgroup.kr/';
 			}
 
 			$this->set_item('base_url', $base_url);
